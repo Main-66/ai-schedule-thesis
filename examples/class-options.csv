@@ -1,0 +1,7 @@
+subject,importance,option,days,start,end
+Algorithms,5,Group A,Mon,09:00,10:30
+Algorithms,5,Group A,Wed,13:00,14:30
+Algorithms,5,Group B,"Tue;Thu",13:00,14:30
+Database Systems,4,Group A,"Mon;Thu",11:00,12:30
+Computer Networks,3,Group A,"Wed;Fri",13:00,14:30
+Computer Networks,3,Group B,"Tue;Thu",15:00,16:30
